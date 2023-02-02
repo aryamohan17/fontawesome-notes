@@ -1,0 +1,4 @@
+    <script src="https://kit.fontawesome.com/51e0cc988f.js" crossorigin="anonymous"></script>
+
+*   this link can be used for access the font awesome. 
+*   size of the icon are setting using fa-1x(that 1 vari from 1 to 10)
